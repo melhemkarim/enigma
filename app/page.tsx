@@ -95,7 +95,9 @@ export default function Home() {
         
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
+
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -107,11 +109,13 @@ export default function Home() {
     <div className="hidden group-hover:flex"><img className=" w-[700px] h-[440px] " src="vibesb.png" alt="product image" /></div>
     <div className="px-5 pb-5 mt-6">
         
-            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">GODO VIBES</h5>
+            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">GOOD VIBES</h5>
         
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
+            
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -128,6 +132,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -156,6 +161,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -172,6 +178,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -190,6 +197,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -230,6 +238,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -248,6 +257,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -260,12 +270,13 @@ export default function Home() {
     
     <div className="px-5 pb-5 mt-6">
         
-            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">GOOD VIBES SHIRT</h5>
+            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">OVERTHINKER</h5>
         
         
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -295,6 +306,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -313,6 +325,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -331,6 +344,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -345,7 +359,7 @@ export default function Home() {
 
 
 
-{/* black */}
+{/* feelings */}
 
 <div className='pt-12 flex justify-center' >
         <img  className=' mb-10   lg:w-[1550px]' src="feelings.png" alt="" />
@@ -353,7 +367,7 @@ export default function Home() {
 
 
 
-{/* black */}
+{/* feelings */}
 
 {/* 1st */}
 
@@ -373,6 +387,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -391,6 +406,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -409,6 +425,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -438,6 +455,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -456,6 +474,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -474,6 +493,7 @@ export default function Home() {
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900 ">15$</span>
         </div>
+        <span className="text-sm text-center flex justify-center mt-2  text-gray-900  ">tap/hover to see the back design</span>
     </div>
 </div>
     </div>
@@ -565,7 +585,7 @@ export default function Home() {
 <footer className=" bg-gray-200 rounded-lg shadow  m-4 mt-20">
     <div className="w-full max-w-screen-xl mx-auto p-4 md:py-8">
         <div className="sm:flex sm:items-center sm:justify-center flex justify-center">
-            <a href="https://enigmalb.netlify.app/" className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
+            <a href="https://enigmalb.netlify.app/" className="flex items-cente2  sm:mb-0 space-x-3 rtl:space-x-reverse">
                 <img src="enigma text black.png" className="h-20" alt="Logo" />
                 
             </a>
