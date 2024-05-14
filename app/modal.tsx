@@ -39,7 +39,7 @@ export default function Modal() {
                     To order, dm us on instagram with the t-shirt name that is shown under each picture with the size that u want 
                   </p>
                   <p className="my-4 text-blueGray-500 text-lg leading-relaxed">
-                    SIZES AVAILABLE: S-M-L-XL-XXL
+                    SIZES AVAILABLE: S-M-L-XL 'OVERSIZE'
                   </p>
                   <p className="my-4 text-blueGray-500 text-lg leading-relaxed">
                     SOME DESIGNS MIGHT BE AVAILABLE IN BLACK ASWELL ASK TO SEE THE DESIGN!
