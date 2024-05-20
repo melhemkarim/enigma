@@ -169,11 +169,11 @@ export default function Home() {
     <div>
         <div className=" group  w-full max-w-[800px] max-h-[600px] bg-white border border-gray-200 rounded-lg shadow ">
     
-    <div className="group-hover:hidden"><img className=" w-[700px] h-[440px] " src="relaxf.png" alt="product image" /></div>
-    <div className="hidden group-hover:flex"><img className=" w-[700px] h-[440px] " src="relaxb.png" alt="product image" /></div>
+    <div className="group-hover:hidden"><img className=" w-[700px] h-[440px] " src="skatef.png" alt="product image" /></div>
+    <div className="hidden group-hover:flex"><img className=" w-[700px] h-[440px] " src="skateb.png" alt="product image" /></div>
     <div className="px-5 pb-5 mt-6">
         
-            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">RELAX</h5>
+            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">SKATER</h5>
         
         <div className="flex-row items-center justify-between text-center mt-6">
             <span className="text-2xl font-bold text-gray-900  ">15$</span>
@@ -186,12 +186,12 @@ export default function Home() {
     <div>
         <div className=" group  w-full max-w-[800px] max-h-[600px] bg-white border border-gray-200 rounded-lg shadow ">
     
-    <div className="group-hover:hidden"><img className=" w-[700px] h-[440px] " src="pineapplef.png" alt="product image" /></div>
-    <div className="hidden group-hover:flex"><img className=" w-[700px] h-[440px] " src="pineappleb.png" alt="product image" /></div>
+    <div className="group-hover:hidden"><img className=" w-[700px] h-[440px] " src="richf.png" alt="product image" /></div>
+    <div className="hidden group-hover:flex"><img className=" w-[700px] h-[440px] " src="richb.png" alt="product image" /></div>
     
     <div className="px-5 pb-5 mt-6">
         
-            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">PINEAPPLE</h5>
+            <h5 className="text-xl font-semibold tracking-tight text-gray-900 text-center">RICH</h5>
         
         
         <div className="flex-row items-center justify-between text-center mt-6">
